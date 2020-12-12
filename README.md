@@ -1,8 +1,8 @@
 <h1> Segundo módulo </h1>
 <i> Desenvolvimento de sistemas </i>
-</br></br>
+</br>
 <p>Sistema de gerenciamento para restaurante mexicano</p>
-</br></br>
+</br>
 <h3>Integrantes :coffee:</h3>
 <ul>
   <li> Guilherme Bugliani (desenvolvedor mobile) </li>
